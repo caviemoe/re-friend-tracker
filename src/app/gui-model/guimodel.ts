@@ -481,6 +481,7 @@ export class GuiModel {
 
 
     get guiModel() {
-        return this._guiModel;
+        
+		return this._guiModel;
     }
 }
